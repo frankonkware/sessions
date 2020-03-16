@@ -1,0 +1,26 @@
+{
+  "name": "sessions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "1.4.5",
+    "express": "4.17.1",
+    "express-session": "1.17.0",
+    "express-sessions": "1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankonkware/sessions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankonkware/sessions/issues"
+  },
+  "homepage": "https://github.com/frankonkware/sessions#readme"
+}
